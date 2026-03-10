@@ -7,6 +7,14 @@ Dialogs are popup windows that appear on top of the screen to show important inf
 
 The application includes different types of dialogs triggered by button clicks.
 
+# screen-shot:
+
+![App Screenshot](Screenshot%202026-03-10%20112818.png)
+![Screenshot](Screenshot%202026-03-10%20112754.png)
+
+![Screenshot](Screenshot%202026-03-10%20112818.png)
+
+
 
 # Features
 
@@ -48,6 +56,7 @@ Through this project, I learned how to:
 
 - Create interactive popups in Flutter.
 - Improve user experience using dialogs.
+
 
 
 
