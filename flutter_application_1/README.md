@@ -10,9 +10,10 @@ The application includes different types of dialogs triggered by button clicks.
 # screen-shot:
 
 ![App Screenshot](Screenshot%202026-03-10%20112818.png)
-![Screenshot](Screenshot%202026-03-10%20112754.png)
 
-![Screenshot](Screenshot%202026-03-10%20112818.png)
+![Screenshot](Screenshot%202026-10-10%20112744.png)
+
+![Screenshot](Screenshot%202026-03-10%20112754.png)
 
 
 
