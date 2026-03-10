@@ -6,6 +6,11 @@ This project demonstrates how to use Dialogs in Flutter.
 Dialogs are popup windows that appear on top of the screen to show important information or request user interaction.
 
 The application includes different types of dialogs triggered by button clicks.
+ # how to run it:
+ git clone https://github.com/GLOIRE5/app-dialogs.git
+ cd app-dialogs
+ cd flutter_application
+ flutter run
 
 # screen-shot:
 
